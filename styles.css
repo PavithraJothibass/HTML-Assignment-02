@@ -1,0 +1,27 @@
+body {
+    font-family: Arial, sans-serif;
+  }
+  
+  header {
+    background: #343a40;
+    color: #fff;
+  }
+  
+  .navbar {
+    margin-bottom: 20px;
+  }
+  
+  blockquote {
+    font-size: 1.5rem;
+  }
+  
+  h2 {
+    margin-top: 20px;
+    margin-bottom: 20px;
+  }
+  
+  footer {
+    background: #343a40;
+    color: #fff;
+    padding: 20px 0;
+  }
